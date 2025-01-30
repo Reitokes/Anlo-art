@@ -1,0 +1,10 @@
+# Ignorera känsliga filer
+.env
+
+# Ignorera beroenden
+/node_modules
+
+# Loggfiler
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
